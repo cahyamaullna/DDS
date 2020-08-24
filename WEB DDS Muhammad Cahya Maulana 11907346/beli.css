@@ -1,0 +1,35 @@
+body{
+	margin: auto;
+	padding:0;
+	font-family: SF UI Display;
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)), url("77-771344_wallpaper-sunda.jpg")
+}
+.container{
+	width: 100%;
+	height: auto;
+	margin-top: 35px;
+	background-color: #FFFFFF;
+	border-radius: 30px;
+	margin-bottom: 35px;
+	animation: fade 3s;
+}
+.fontTipis{
+	font-family: Centaur;
+	color: #000000;
+	margin-left: 45%
+	margin-right:45%;
+}
+.btnBeli{
+	margin-top: 20px;
+	width:140px;
+	border-radius: 20px;
+	background-color: #FFCE2D;
+	color: #FFFFFF;
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+.fontTipis{
+	font-family: Centaur;
+	color: #FFFFFF;
+	margin:0;
+}
